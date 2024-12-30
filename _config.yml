@@ -1,0 +1,17 @@
+title: James Wong
+description: "James Wong Page"
+baseurl: "" # Leave blank for root
+url: "https://jameshsw.github.io" # Replace <your-username> with your GitHub username
+
+author:
+  name: "James Wong"
+  email: "jameshsw@gmail.com"
+
+theme: jekyll-theme-minimal
+
+# Optional: Social media links
+social_links:
+  - title: "Twitter"
+    url: "https://twitter.com/yourusername"
+  - title: "LinkedIn"
+    url: "https://linkedin.com/in/yourusername"
