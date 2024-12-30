@@ -7,7 +7,7 @@ author:
   name: "James Wong"
   email: "jameshsw@gmail.com"
 
-theme: jekyll-theme-minimal
+theme: minima
 
 # Optional: Social media links
 social_links:
