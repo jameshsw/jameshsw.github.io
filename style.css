@@ -101,6 +101,9 @@ body{
 }
 
 /* course-section */
+.course-section{
+    background-color: #F0FFF0;
+}
 .title-text{
     font-size: 36px;
     line-height: 54px;
@@ -160,7 +163,7 @@ body{
 }
 /* video area */
 .video-section{
-    background-color: #F0FFF0;
+    background-color: #FFFFFF;
     padding: 80px 0px;
     margin-bottom: 50px;
 }
@@ -189,6 +192,9 @@ body{
     cursor: pointer;
 }
 /* testimonail section */
+.testimonail-section{
+    background-color: #F0FFF0;
+}
 .testimonial-inner p{
     font-weight: normal;
     font-size: 16px;
